@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.0">
+<file name="/Users/nelwinjacob/Documents/Master_Thesis/git_fork/Samples/transfer/transfer-06-consumer-pull-http/consumer-pull-backend-service/src/main/java/org/eclipse/edc/handler/ReceiverHandler.java">
+</file>
+<file name="/Users/nelwinjacob/Documents/Master_Thesis/git_fork/Samples/transfer/transfer-06-consumer-pull-http/consumer-pull-backend-service/src/main/java/org/eclipse/edc/BackendService.java">
+</file>
+</checkstyle>

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.eclipse.edc","l":"BackendService"},{"p":"org.eclipse.edc.handler","l":"ReceiverHandler"}]
